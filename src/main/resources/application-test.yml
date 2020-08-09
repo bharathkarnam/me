@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri: localhost:27017
+server:
+  dbName: techm
+  port: 8091
+  ssl:
+    key-store: classpath:localhost.p12
+    key-store-password: password
+    key-alias: localhost
+    keyStoreType: PKCS12

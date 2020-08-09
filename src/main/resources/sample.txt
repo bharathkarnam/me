@@ -1,0 +1,11 @@
+{
+  "address": "70 collins street docklands melbourne vic 3000"
+  "designation": "software engineering",
+  "mobilenumber": 431424709,
+  "name": "bharath",
+  "role": "development",
+  "skills": [
+       "Spring boot"
+  ],
+  "totalyearsOfexperience": 8
+}
