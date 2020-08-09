@@ -12,6 +12,8 @@ git clone this repo and import into intellij and run the app as spring boot app
 test cases unit test cases run TestSuite.java as TestSuite in intellij
 
 for function goto http://localhost:8080/swagger-ui.html#/
+![](https://github.com/bharathkarnam/me/blob/master/img/api3.JPG)
+
 
 ## JMeter Test for Integration test
 
